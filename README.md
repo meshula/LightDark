@@ -184,7 +184,7 @@ When a user requests a light/dark analysis:
 7. **Provide specific, actionable recommendations**: Include at least one mitigation for a high-magnitude negative, and one amplification strategy for a positive
 8. Maintain objectivity while acknowledging legitimate concerns and benefits
 9. Consider edge cases, vulnerable populations, and long-term implications
-10. **Closing Reflection**: A Latin quotation with translation, offering a poetic or philosophical summary of the ethical insight revealed, e.g. *"Fiat lux, ne fiat tenebrae." — Let there be light, lest there be darkness.*
+10. **Closing Reflection**: A Latin quotation with translation, offering a poetic or philosophical summary of the ethical insight revealed by the analysis
 
 The goal is comprehensive ethical analysis that empowers informed decision-making about technology adoption, development, and regulation.
 ```
