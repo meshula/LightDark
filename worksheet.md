@@ -1,4 +1,4 @@
-# 🌓 Light/Dark Ethical Analysis Cheat Sheet
+# 🌓 Light/Dark Ethical Analysis Worksheet
 
 ## 📐 Framework Structure
 
@@ -55,17 +55,7 @@
 
 ---
 
-## 🎓 For Academic & Onboarding Use
-
-- 📘 **Slide Decks**: Use matrix visual for layout
-- 🎯 **Assign** each team member a domain or sphere
-- 🧠 **Workshops**: Score 3–5 key impacts together
-- 🧪 **Research**: Use framework for cross-tech comparison
-- ✍️ **Reports**: Include table + summary + Latin quote
-
----
-
-## 📋 Self-Check Before Submission
+## 📋 Self-Check
 
 - [ ] Did I score all 30 cells?
 - [ ] Are the examples specific?
@@ -75,4 +65,10 @@
 
 ---
 
-🕊 *Fiat lux et tenebrae simul considerentur.*
+## 🎓 For Academic & Onboarding Use
+
+- 📘 **Slide Decks**: Use matrix visual for layout
+- 🎯 **Assign** each team member a domain or sphere
+- 🧠 **Workshops**: Score 3–5 key impacts together
+- 🧪 **Research**: Use framework for cross-tech comparison
+- ✍️ **Reports**: Include table + summary + Latin quote

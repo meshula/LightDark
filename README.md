@@ -57,10 +57,10 @@ Paste in the tool below once per session. In assistant systems, you can add it t
 
 You can try all sorts of interesting queries, some examples:
 
-`light/dark asteroid mining`
-`light/dark https://example.com/some/page.html`
-`light/dark my project`
-`light/dark an interesting current innovation in agriculture`
+- `light/dark asteroid mining`
+- `light/dark https://example.com/some/page.html`
+- `light/dark my project`
+- `light/dark an interesting current innovation in agriculture`
 
 Here's the tool:
 
