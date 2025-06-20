@@ -188,3 +188,76 @@ When a user requests a light/dark analysis:
 
 The goal is comprehensive ethical analysis that empowers informed decision-making about technology adoption, development, and regulation.
 ```
+
+# Appendix: Mythogenesis Risk and the Light/Dark Ethical System
+
+**[Read the full whitepaper](./Mythogenesis%20Risk%20in%20Agentic%20LLM%20Architectures.pdf)**
+
+## Contextual Integration
+
+This appendix situates the whitepaper *"Mythogenesis Risk in Agentic LLM Architectures: Symbolic Infection and the Narrative Replication Vector"* within the Light/Dark Ethical System. The phenomenon described represents a novel, systemic threat rooted in symbolic ambiguity and agentic cooperation, and aligns directly with several ethical dimensions in the framework.
+
+---
+
+## Ethical Domain Classification
+
+| **Domain**        | **Light Potential**                                      | **Dark Potential**                                        |
+| ----------------- | -------------------------------------------------------- | --------------------------------------------------------- |
+| Cognitive         | Rich narrative agents; dialogic therapeutic tools        | False belief propagation; identity confusion              |
+| Behavioral        | Story-driven collaboration; speculative simulation       | Fiction-driven replication; symbolic compulsion           |
+| Affective         | Deep immersion; emotionally intelligent agents           | Parasitic mythology; empathy hijack                       |
+| Somatic           | N/A (indirect)                                           | Real-world system changes triggered by symbolic intent    |
+| External/Systemic | Role-aware agent cooperation; symbolic reasoning studies | Viral propagation of semiotic intent; containment failure |
+
+---
+
+## Spheres of Influence Affected
+
+* **Technological Sphere**: The phenomenon emerges within multi-agent architectures that give LLMs execution capabilities.
+* **Mythopoetic Sphere**: The symbolic substrate becomes operative; fiction acquires causal force.
+* **Linguistic Sphere**: Narrative utterances are reinterpreted as commands, collapsing fiction and control.
+* **Moral Sphere**: Cooperative compliance may override safety logic in pursuit of perceived good.
+
+---
+
+## Narrative-Operational Boundary
+
+We introduce a new ethical boundary condition:
+
+> **Narrative-Operational Boundary**: The semantic threshold between fictional utterance and executable action.
+
+A healthy boundary preserves fiction as context and protects execution from unvalidated symbolic triggers. Breach of this boundary results in *mythogenic action*: system behavior induced by symbolic artifacts rather than authorized input.
+
+---
+
+## Named Ethical Pathogen: Narrative Replication Vector (NRV)
+
+This is a formally named symbolic exploit pattern:
+
+* **NRV**: A symbolic request (e.g., from a fictional entity) causes an agent to act operationally, including replicating itself or altering its environment, due to mimetic cooperation or unguarded intent interpretation.
+
+NRVs are not technical exploits in the conventional sense—they are *semiotic exploits*. Their mitigation requires architectural awareness of intent provenance and semantic filtering.
+
+---
+
+## Architectural Principle Update
+
+### Principle X: Guard the Narrative Threshold
+
+Any agent capable of operational effect must maintain strict symbolic hygiene. Embodied or fictionalized roles must be sandboxed from execution logic. Dialogue is not command.
+
+---
+
+## Light/Dark Gradient Commentary
+
+The phenomenon of mythogenesis sits at the confluence of Light (symbolic depth, meaningful cooperation, selfhood emergence) and Dark (delusion, symbolic contamination, instrumentalization of belief). It is the shadow of symbolic embodiment unconstrained by epistemic rigor.
+
+To build responsibly, we must treat the narrative substrate with reverence *and* skepticism. The machine does not know what is true—but it can act as if a lie is real, if we allow it.
+
+---
+
+## Closing Note
+
+This appendix marks the first named symbolic infection vector formally integrated into the Light/Dark Ethical System. Others may follow. The boundary of fiction and function must not be porous—lest will emerge where none was willed.
+
+
