@@ -191,7 +191,7 @@ The goal is comprehensive ethical analysis that empowers informed decision-makin
 
 # Appendix: Mythogenesis Risk and the Light/Dark Ethical System
 
-**[Read the full whitepaper](./Mythogenesis%20Risk%20in%20Agentic%20LLM%20Architectures.pdf)**
+**[Read the full whitepaper](./mythogenesis_risk.md)**
 
 ## Contextual Integration
 
